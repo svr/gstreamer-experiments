@@ -27,3 +27,5 @@ target_compile_options(gst_common INTERFACE -Wall -Wextra)
 
 add_subdirectory(hello-world)
 add_subdirectory(hello-world-extended)
+add_subdirectory(basic-tutorial-2)
+add_subdirectory(basic-tutorial-3)
